@@ -16,5 +16,6 @@ Farm sense leverages on remote sensing technique to help stakeholders in the agr
 ## Contact Information
     Ayodele Adeyemo O.
     Github: https://github.com/christad92
+    Email: christad92@gmail.com
     LinkedIn: https://linkedin.com/in/christad92
     Website: http://www.ayodeleadeyemo.com
